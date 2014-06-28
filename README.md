@@ -4,8 +4,8 @@ rruihTest
 rruih's first attempt
 
 #Head 1
-##Head2
-###Head3
+##Head 2
+###Head 3
 
 This line contains the `High Light` content.
 
